@@ -1,0 +1,17 @@
+body {
+    box-sizing: border-box;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: black;
+   
+}
+
+input {
+    border: 5px solid blueviolet;
+}
+
+button {
+    background-color: blueviolet;
+}
